@@ -30,6 +30,5 @@ The objective of this project is to demonstrate the use of NLP techniques for bu
 NLP-Chatbot/
 ├── notebooks/
 │   └── Chatbot.ipynb
-├── chatbot.py
 ├── requirements.txt
 ├── README.md
